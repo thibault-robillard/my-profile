@@ -1,0 +1,50 @@
+div {
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+	border-right: 1px solid white;
+	border-left: 1px solid white;
+	margin: 40px auto;
+	background-color: #f3f0e1;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+	letter-spacing: 5px;
+    color: rgb(0, 0, 0);	
+    font-family: Trebuchet MS;
+	font-size: 40px;
+	justify-content: center;
+	margin: 75px
+	line-height: 1.5;
+}
+body {
+	color: rgb(50, 50, 50);
+	font-family: Times New Roman ;
+	letter-spacing: 2px;
+	background-color: #e0ddd1;
+	width: 700px;
+	margin: 50px auto;
+
+}
+
+.img-circle {
+	border-radius: 35%;
+	margin: 25px auto;
+	width: 250px;
+}
+.btn-black {
+	background-color: rgb(210, 210, 210);
+	color: rgb(0, 0, 0);
+	padding: 15px 20px;
+	border-radius: 4px;
+	margin: 25px auto;
+}
+
+h4 {
+	line-height: 2;
+}
+
+i {
+	font-size: 40px;
+	color: rgb(100, 100, 100);
+}
